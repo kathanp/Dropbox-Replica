@@ -1,0 +1,104 @@
+Express server listening on port 3002
+Connection Established :  true
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3002
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1262:14)
+    at listen (net.js:1298:10)
+    at Server.listen (net.js:1394:5)
+    at Object.<anonymous> (/home/ubuntu/portfolio/Portfolio/server/app.js:45:24)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3002
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1262:14)
+    at listen (net.js:1298:10)
+    at Server.listen (net.js:1394:5)
+    at Object.<anonymous> (/home/ubuntu/portfolio/Portfolio/server/app.js:45:24)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+Express server listening on port 8080
+Connection Established :  true
+Express server listening on port 8080
+Connection Established :  true
+Express server listening on port 8080
+Connection Established :  true
+Request came
+null
+[0mPOST /logUser [32m200 [0m38.583 ms - 2[0m
+Request came
+null
+[0mPOST /logUser [32m200 [0m8.970 ms - 2[0m
+Request came
+null
+[0mPOST /logUser [32m200 [0m3.841 ms - 2[0m
+Request came
+New user
+[0mPOST /logUser [32m200 [0m4.600 ms - 2[0m
+Request came
+null
+[0mPOST /logUser [32m200 [0m2.338 ms - 2[0m
+Request came
+null
+[0mPOST /logUser [32m200 [0m3.681 ms - 2[0m
+Request came
+null
+[0mPOST /logUser [32m200 [0m2.554 ms - 2[0m
+Request came
+New user
+[0mPOST /logUser [32m200 [0m3.620 ms - 2[0m
+Request came
+null
+[0mPOST /logUser [32m200 [0m2.462 ms - 2[0m
+Express server listening on port 8080
+Connection Established :  true
+Express server listening on port 8080
+Connection Established :  true
+Request came
+null
+[0mPOST /logUser [32m200 [0m51.473 ms - 2[0m
+Request came
+New user
+[0mPOST /logUser [32m200 [0m8.310 ms - 2[0m
+Request came
+null
+[0mPOST /logUser [32m200 [0m3.958 ms - 2[0m
+Express server listening on port 8080
+Connection Established :  true
+Express server listening on port 8080
+Connection Established :  true
+Express server listening on port 3002
+Connection Established :  true
+[0mPOST /logUser [32m200 [0m40.318 ms - 2[0m
+[0mPOST /logUser [32m200 [0m12.186 ms - 2[0m
+[0mPOST /logUser [32m200 [0m2.880 ms - 2[0m
+[0mPOST /logUser [32m200 [0m2.246 ms - 2[0m
+[0mGET /download [32m200 [0m7.308 ms - 25264[0m
+[0mGET /download [36m304 [0m1.595 ms - -[0m
+[0mGET /download [36m304 [0m0.656 ms - -[0m
+[0mPOST /logUser [32m200 [0m7.234 ms - 2[0m
+[0mPOST /logUser [32m200 [0m2.884 ms - 2[0m
+[0mPOST /logUser [32m200 [0m3.786 ms - 2[0m
+[0mPOST /logUser [32m200 [0m85.663 ms - 2[0m
+[0mPOST /logUser [32m200 [0m2.241 ms - 2[0m
+[0mPOST /logUser [32m200 [0m3.311 ms - 2[0m
+[0mPOST /logUser [32m200 [0m2.834 ms - 2[0m
+[0mPOST /logUser [32m200 [0m2.387 ms - 2[0m
+Express server listening on port 3002
+Connection Established :  true
+[0mPOST /logUser [32m200 [0m56.922 ms - 2[0m
+[0mPOST /logUser [32m200 [0m8.551 ms - 2[0m
+[0mPOST /logUser [32m200 [0m7.054 ms - 2[0m

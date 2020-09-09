@@ -1,0 +1,124 @@
+
+
+
+.primary-sidebar{
+    padding: 0px  !important;
+    height: auto ;
+    width: 1040px;
+    height: 322px;
+    margin-left: 40px;
+}
+
+.home-access-sections{
+    width: 1040px;
+    height: 322px;
+}
+
+.home-access-section{
+    
+    padding: 0px !important;
+    width: 1040px;
+    height: 106px;
+    margin-bottom: 26px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin: 0 0 24px 0;
+    font-size: 12px;
+    color: #1162b9;
+}
+
+.home-access-section__header{
+margin-top: 0px !important;
+margin-bottom: 0px !important;
+border-bottom: solid 1px #E6E8EB;
+}
+
+.home-access-section__title{
+    margin: 0;
+    padding: 0 11px 0 12px;
+    font-weight: 400;
+    line-height: 40px;   
+    position: -webkit-sticky;
+    position: sticky;
+    background-color: white;
+    z-index: 1;
+    top: 76px;
+    padding: 0px !important;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    font-size: 12px;
+    color: #1162b9;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+
+}
+
+.home-access-section__title-text {
+    display: inline-block;
+    font-weight: inherit;
+    color: #637282;
+}
+
+.ue-effect-container {
+    position: relative;
+}
+
+
+.home-section-header__button{
+    float: right;
+    height: 40px;
+    display: block;
+    font-family: AtlasGrotesk,sans-serif;
+    padding: 0px !important;
+}
+
+.button-as-link {
+    margin: 0;
+    padding: 0;
+    float: right;
+    font-size: 12px;
+    border: 0;
+    width: auto;
+    overflow: visible;
+    border-style: solid;
+    outline: 0;
+    font-size: 12px; 
+    align-items: center;
+    cursor: pointer;
+    color: #005ff8;
+    background: none;
+    background-color: white;
+}
+
+.home-access__empty-text{
+    margin: 24px 12px;
+    color: #637282;
+    width: 100%;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+
+a {
+    color: #005ff8;
+    text-decoration: none;
+}
+
+.starred{
+    width: 1045px;
+    height: 65px;
+    font-size: 16px;
+
+}
+
+.home-recents-section {
+    min-height: 168px;
+}
+
+
